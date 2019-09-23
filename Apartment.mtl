@@ -10,7 +10,6 @@ Ke 0.0 0.0 0.0
 Ni 1.450000
 d 1.000000
 illum 1
-map_Bump -bm 0.440017 Mat\\Carpet_Bronden_Normal.png
 map_Kd Mat\\Carpet_Bronden_AlbedoTransparency.png
 
 newmtl 01_-_Default.001
@@ -22,7 +21,6 @@ Ke 0.0 0.0 0.0
 Ni 1.450000
 d 1.000000
 illum 1
-map_Bump -bm 0.150000 Mat\\Carpet_Bronden_Normal.png
 map_Kd Mat\\Strandmon_AlbedoTransparency.png
 
 newmtl 01_-_Default.002
@@ -46,7 +44,6 @@ Ke 0.0 0.0 0.0
 Ni 1.450000
 d 1.000000
 illum 1
-map_Bump -bm 0.240017 Mat\\Carpet_Flottebo_normal.png
 map_Kd Mat\\Carpet_Flottebo_basecolor.png
 
 newmtl 01_-_Default.004
@@ -58,7 +55,6 @@ Ke 0.0 0.0 0.0
 Ni 1.450000
 d 1.000000
 illum 1
-map_Bump -bm 0.240017 Mat\\Flottebo\\Sofa\\Flottebo_Sofa_Normal.png
 map_Kd Mat\\Flottebo\\Sofa\\Flottebo_Sofa_AlbedoTransparency.png
 
 newmtl Floor
@@ -156,5 +152,4 @@ Ke 0.0 0.0 0.0
 Ni 1.450000
 d 1.000000
 illum 2
-map_Bump -bm 0.340017 Mat\\Flottebo\\Pillows\\Flottebo_Pillows_Normal.png
 map_Kd Mat\\Flottebo\\Pillows\\Flottebo_Pillows_AlbedoTransparency.png
