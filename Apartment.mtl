@@ -1,5 +1,5 @@
 # Blender MTL File: 'apart_v2.blend'
-# Material Count: 14
+# Material Count: 17
 
 newmtl 01_-_Default
 Ns 18.000005
@@ -57,6 +57,17 @@ d 1.000000
 illum 1
 map_Kd Mat\\Flottebo\\Sofa\\Flottebo_Sofa_AlbedoTransparency.png
 
+newmtl 01_-_Default.005
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588235 0.588235 0.588235
+Ks 0.000000 0.000000 0.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Mat\\Eket_AlbedoTransparency.png
+
 newmtl Floor
 Ns 225.000000
 Ka 1.000000 1.000000 1.000000
@@ -100,6 +111,25 @@ Ni 1.450000
 d 1.000000
 illum 2
 
+newmtl Material__2146946855.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 1.000000 1.000000 1.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Mat\\RFAIPP_Acoustic_System_albedo.png
+
+newmtl None
+Ns 500
+Ka 0.8 0.8 0.8
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+
 newmtl Plaster_White
 Ns 18.000005
 Ka 1.000000 1.000000 1.000000
@@ -110,6 +140,17 @@ Ni 1.450000
 d 1.000000
 illum 1
 map_Kd Mat\\Doors\\Door_AlbedoTransparency.png
+
+newmtl TV
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.588200 0.588200 0.588200
+Ks 0.000000 0.000000 0.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Mat\\TV_AlbedoTransparency.png
 
 newmtl Walls
 Ns 225.000000
@@ -133,23 +174,14 @@ d 1.000000
 illum 1
 map_Kd Mat\\Wood_Parquet_Interior\\Wood_Parquet_Interior_AlbedoTransparency.png
 
-newmtl glass2.001
-Ns 506.250000
-Ka 1.000000 1.000000 1.000000
-Kd 0.800000 0.800000 0.800000
-Ks 0.500000 0.500000 0.500000
-Ke 0.0 0.0 0.0
-Ni 1.000000
-d 1.000000
-illum 2
-
 newmtl pillow
-Ns 225.000000
+Ns 0.000000
 Ka 1.000000 1.000000 1.000000
 Kd 0.800000 0.800000 0.800000
-Ks 0.500000 0.500000 0.500000
+Ks 0.433333 0.433333 0.433333
 Ke 0.0 0.0 0.0
 Ni 1.450000
 d 1.000000
 illum 2
+map_Bump -bm 0.040017 Mat\\Flottebo\\Pillows\\Flottebo_Pillows_Normal.png
 map_Kd Mat\\Flottebo\\Pillows\\Flottebo_Pillows_AlbedoTransparency.png
