@@ -1,5 +1,38 @@
 # Blender MTL File: 'apart_v2.blend'
-# Material Count: 4
+# Material Count: 8
+
+newmtl Floor
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Mat\\Wood_Parquet_Interior\\Wood_Parquet_Interior_AlbedoTransparency.png
+
+newmtl Floor2
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Mat\\Tiles_Mexican\\Tile_Mexican_basecolor.png
+
+newmtl Floor3
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Mat\\Tiles_White\\Tiles_White_basecolor.png
 
 newmtl Material.001
 Ns 225.000000
@@ -10,6 +43,17 @@ Ke 0.0 0.0 0.0
 Ni 1.450000
 d 1.000000
 illum 2
+
+newmtl Plaster_White
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.847059 0.847059 0.847059
+Ks 0.000000 0.000000 0.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Mat\\Doors\\Door_AlbedoTransparency.png
 
 newmtl Walls
 Ns 225.000000
