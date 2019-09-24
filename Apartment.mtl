@@ -1,5 +1,5 @@
 # Blender MTL File: 'apart_v2.blend'
-# Material Count: 50
+# Material Count: 48
 
 newmtl 01_-_Default
 Ns 18.000005
@@ -123,17 +123,6 @@ d 1.000000
 illum 1
 map_Kd Mat\\Skogsta\\Skogsta_AlbedoTransparency.png
 
-newmtl 01_-_Default.011
-Ns 18.000005
-Ka 1.000000 1.000000 1.000000
-Kd 0.588235 0.588235 0.588235
-Ks 0.000000 0.000000 0.000000
-Ke 0.0 0.0 0.0
-Ni 1.450000
-d 1.000000
-illum 1
-map_Kd Mat\\Frame\\Picture1.png
-
 newmtl 01_-_Default.012
 Ns 18.000005
 Ka 1.000000 1.000000 1.000000
@@ -255,6 +244,16 @@ d 1.000000
 illum 1
 map_Kd Mat\\Curtain\\Curtain_AlbedoTransparency.png
 
+newmtl Fdge
+Ns 2.727040
+Ka 1.000000 1.000000 1.000000
+Kd 0.214035 0.214035 0.214035
+Ks 1.000000 1.000000 1.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+
 newmtl Floor
 Ns 225.000000
 Ka 1.000000 1.000000 1.000000
@@ -299,16 +298,6 @@ d 1.000000
 illum 1
 map_Kd Mat\\Kitchen\\Fridge_d.tga
 
-newmtl Fridge_Glasses
-Ns 18.000005
-Ka 1.000000 1.000000 1.000000
-Kd 0.588000 0.588000 0.588000
-Ks 0.000000 0.000000 0.000000
-Ke 0.0 0.0 0.0
-Ni 1.450000
-d 1.000000
-illum 1
-
 newmtl Kitchen_Cabinet_Marble
 Ns 18.000005
 Ka 1.000000 1.000000 1.000000
@@ -341,17 +330,6 @@ Ni 1.450000
 d 1.000000
 illum 1
 map_Kd Mat\\Kitchen\\kitchenMarble_Albedo.jpg
-
-newmtl Kitchen_Cabinet_Metals
-Ns 18.000005
-Ka 1.000000 1.000000 1.000000
-Kd 0.588235 0.588235 0.588235
-Ks 0.000000 0.000000 0.000000
-Ke 0.0 0.0 0.0
-Ni 1.450000
-d 1.000000
-illum 1
-map_Kd Mat\\Kitchen\\Kitchen_Cabinet_Metals_d.tga
 
 newmtl Material
 Ns 1.306122
@@ -509,27 +487,25 @@ d 1.000000
 illum 1
 map_Kd Mat\\Wood_Parquet_Interior\\Wood_Parquet_Interior_AlbedoTransparency.png
 
-newmtl picture4
-Ns 225.000000
+newmtl fire
+Ns 15.926697
 Ka 1.000000 1.000000 1.000000
-Kd 0.800000 0.800000 0.800000
+Kd 0.010022 0.010022 0.010022
 Ks 0.500000 0.500000 0.500000
 Ke 0.0 0.0 0.0
 Ni 1.450000
 d 1.000000
 illum 2
-map_Kd Mat\\Frame\\Picture8.png
 
-newmtl picture8
+newmtl fire2
 Ns 225.000000
 Ka 1.000000 1.000000 1.000000
-Kd 0.800000 0.800000 0.800000
-Ks 0.500000 0.500000 0.500000
+Kd 0.025394 0.025394 0.025394
+Ks 0.949541 0.949541 0.949541
 Ke 0.0 0.0 0.0
 Ni 1.450000
 d 1.000000
 illum 2
-map_Kd Mat\\Frame\\Picture10.png
 
 newmtl pillow
 Ns 0.000000
