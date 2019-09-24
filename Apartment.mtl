@@ -1,5 +1,5 @@
 # Blender MTL File: 'apart_v2.blend'
-# Material Count: 48
+# Material Count: 44
 
 newmtl 01_-_Default
 Ns 18.000005
@@ -89,17 +89,6 @@ Ni 1.450000
 d 1.000000
 illum 1
 map_Kd Mat\\Candle\\Candle_Set2_AlbedoTransparency.png
-
-newmtl 01_-_Default.008
-Ns 18.000005
-Ka 1.000000 1.000000 1.000000
-Kd 0.588235 0.588235 0.588235
-Ks 0.000000 0.000000 0.000000
-Ke 0.0 0.0 0.0
-Ni 1.450000
-d 1.000000
-illum 1
-map_Kd Mat\\Decors\\Decors_Wire_AlbedoTransparency.png
 
 newmtl 01_-_Default.009
 Ns 18.000005
@@ -287,17 +276,6 @@ d 1.000000
 illum 2
 map_Kd Mat\\Tiles_White\\Tiles_White_basecolor.png
 
-newmtl Fridge
-Ns 18.000005
-Ka 1.000000 1.000000 1.000000
-Kd 0.588235 0.588235 0.588235
-Ks 0.000000 0.000000 0.000000
-Ke 0.0 0.0 0.0
-Ni 1.450000
-d 1.000000
-illum 1
-map_Kd Mat\\Kitchen\\Fridge_d.tga
-
 newmtl Kitchen_Cabinet_Marble
 Ns 18.000005
 Ka 1.000000 1.000000 1.000000
@@ -352,17 +330,6 @@ Ni 1.450000
 d 1.000000
 illum 2
 
-newmtl Material_#0
-Ns 18.000005
-Ka 1.000000 1.000000 1.000000
-Kd 0.588000 0.588000 0.588000
-Ks 0.000000 0.000000 0.000000
-Ke 0.0 0.0 0.0
-Ni 1.450000
-d 1.000000
-illum 1
-map_Kd Mat\\Frame\\Picture7.png
-
 newmtl Material_#25
 Ns 179.999996
 Ka 1.000000 1.000000 1.000000
@@ -372,16 +339,6 @@ Ke 0.0 0.0 0.0
 Ni 1.450000
 d 1.000000
 illum 2
-
-newmtl Material_#3.003
-Ns 18.000005
-Ka 1.000000 1.000000 1.000000
-Kd 0.588000 0.588000 0.588000
-Ks 0.000000 0.000000 0.000000
-Ke 0.0 0.0 0.0
-Ni 1.450000
-d 1.000000
-illum 1
 
 newmtl Material_#3.004
 Ns 18.000005
