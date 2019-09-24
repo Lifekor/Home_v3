@@ -1,5 +1,5 @@
 # Blender MTL File: 'apart_v2.blend'
-# Material Count: 17
+# Material Count: 55
 
 newmtl 01_-_Default
 Ns 18.000005
@@ -68,6 +68,193 @@ d 1.000000
 illum 1
 map_Kd Mat\\Eket_AlbedoTransparency.png
 
+newmtl 01_-_Default.006
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588235 0.588235 0.588235
+Ks 0.000000 0.000000 0.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Mat\\Kallax_Accessory_AlbedoTransparency.png
+
+newmtl 01_-_Default.007
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588235 0.588235 0.588235
+Ks 0.000000 0.000000 0.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Mat\\Candle\\Candle_Set2_AlbedoTransparency.png
+
+newmtl 01_-_Default.008
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588235 0.588235 0.588235
+Ks 0.000000 0.000000 0.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Mat\\Decors\\Decors_Wire_AlbedoTransparency.png
+
+newmtl 01_-_Default.009
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588235 0.588235 0.588235
+Ks 0.000000 0.000000 0.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Mat\\Livslang\\Livslang_AlbedoTransparency.png
+
+newmtl 01_-_Default.010
+Ns 7.918990
+Ka 1.000000 1.000000 1.000000
+Kd 0.588235 0.588235 0.588235
+Ks 0.000000 0.000000 0.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Mat\\Skogsta\\Skogsta_AlbedoTransparency.png
+
+newmtl 01_-_Default.011
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588235 0.588235 0.588235
+Ks 0.000000 0.000000 0.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Mat\\Frame\\Picture1.png
+
+newmtl 01_-_Default.012
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588235 0.588235 0.588235
+Ks 0.000000 0.000000 0.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Mat\\Frame\\Pictures2_Frame_AO.png
+
+newmtl 01_-_Default.013
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588235 0.588235 0.588235
+Ks 0.000000 0.000000 0.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Mat\\Vase\\Stockholm_Bowl_AlbedoTransparency.png
+
+newmtl 01_-_Default.014
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588235 0.588235 0.588235
+Ks 0.000000 0.000000 0.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Mat\\Vase\\Vase2_AlbedoTransparency.png
+
+newmtl Book1
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Mat\\Books\\Books2_v3_AlbedoTransparency.png
+
+newmtl Book1.001
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Mat\\Books\\Books2_v2_AlbedoTransparency.png
+
+newmtl Book1.002
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Mat\\Books\\Books2_v3_AlbedoTransparency.png
+
+newmtl Book1.004
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Mat\\Books\\Books2_v2_AlbedoTransparency.png
+
+newmtl Chair_Seat
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588235 0.588235 0.588235
+Ks 0.000000 0.000000 0.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Mat\\Chair\\Plastic_Chair_Seat_AlbedoTransparency.png
+
+newmtl Chair_Structure
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588235 0.588235 0.588235
+Ks 0.000000 0.000000 0.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Mat\\Chair\\Plastic_Chair_Legs_AlbedoTransparency.png
+
+newmtl Curtain1
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588235 0.588235 0.588235
+Ks 0.000000 0.000000 0.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Mat\\Curtain\\Curtain_AlbedoTransparency.png
+
+newmtl Curtain2
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588235 0.588235 0.588235
+Ks 0.000000 0.000000 0.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Mat\\Curtain\\Curtain_AlbedoTransparency.png
+
 newmtl Floor
 Ns 225.000000
 Ka 1.000000 1.000000 1.000000
@@ -101,11 +288,196 @@ d 1.000000
 illum 2
 map_Kd Mat\\Tiles_White\\Tiles_White_basecolor.png
 
+newmtl Fridge
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588235 0.588235 0.588235
+Ks 0.000000 0.000000 0.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Mat\\Kitchen\\Fridge_d.tga
+
+newmtl Fridge_Glasses
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 1
+
+newmtl Kitchen_Cabinet_Marble
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588235 0.588235 0.588235
+Ks 0.000000 0.000000 0.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Mat\\Kitchen\\kitchenMarble_Albedo.jpg
+
+newmtl Kitchen_Cabinet_Marble.001
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588235 0.588235 0.588235
+Ks 0.000000 0.000000 0.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Mat\\Kitchen\\kitchenMarble_Albedo.jpg
+
+newmtl Kitchen_Cabinet_Marble.002
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588235 0.588235 0.588235
+Ks 0.000000 0.000000 0.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Mat\\Kitchen\\kitchenMarble_Albedo.jpg
+
+newmtl Kitchen_Cabinet_Metals
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588235 0.588235 0.588235
+Ks 0.000000 0.000000 0.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Mat\\Kitchen\\Kitchen_Cabinet_Metals_d.tga
+
+newmtl Kitchen_Cabinet_Metals.001
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588235 0.588235 0.588235
+Ks 0.000000 0.000000 0.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Mat\\Kitchen\\Kitchen_Cabinet_Metals_d.tga
+
+newmtl Kitchen_Cabinet_Wood
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588235 0.588235 0.588235
+Ks 0.000000 0.000000 0.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Mat\\Kitchen\\Kitchen_Cabinet_Wood_ao.tga
+
+newmtl Kitchen_Cabinet_Wood.001
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588235 0.588235 0.588235
+Ks 0.000000 0.000000 0.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Mat\\Kitchen\\Kitchen_Cabinet_Wood_ao.tga
+
+newmtl Kitchen_Cabinet_Wood.002
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588235 0.588235 0.588235
+Ks 0.000000 0.000000 0.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Mat\\Kitchen\\Kitchen_Cabinet_Wood_ao.tga
+
+newmtl Kitchen_Cabinet_Wood.003
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588235 0.588235 0.588235
+Ks 0.000000 0.000000 0.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Mat\\Kitchen\\Kitchen_Cabinet_Wood_d.tga
+
+newmtl Kitchen_Cabinet_Wood.004
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588235 0.588235 0.588235
+Ks 0.000000 0.000000 0.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Mat\\Kitchen\\Kitchen_Cabinet_Wood_ao.tga
+
+newmtl Kitchen_Cabinet_Wood.005
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588235 0.588235 0.588235
+Ks 0.000000 0.000000 0.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Mat\\Kitchen\\Kitchen_Cabinet_Wood_ao.tga
+
+newmtl Kitchen_Cabinet_Wood.006
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588235 0.588235 0.588235
+Ks 0.000000 0.000000 0.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Mat\\Kitchen\\Kitchen_Cabinet_Wood_ao.tga
+
+newmtl Material
+Ns 1.306122
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.285714 0.285714 0.285714
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Mat\\Box\\Branas_basecolor.png
+
 newmtl Material.001
 Ns 225.000000
 Ka 1.000000 1.000000 1.000000
 Kd 0.800000 0.800000 0.800000
 Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Material_#0
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Mat\\Frame\\Picture7.png
+
+newmtl Material_#25
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.093035 0.039220 0.020861
+Ks 2.000000 2.000000 2.000000
 Ke 0.0 0.0 0.0
 Ni 1.450000
 d 1.000000
@@ -163,6 +535,17 @@ d 1.000000
 illum 2
 map_Kd Mat\\Plaster_Spanish_basecolor.png
 
+newmtl Windows
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588235 0.588235 0.588235
+Ks 0.000000 0.000000 0.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Mat\\Curtain\\Curtain_AlbedoTransparency.png
+
 newmtl Wood
 Ns 18.000005
 Ka 1.000000 1.000000 1.000000
@@ -174,6 +557,39 @@ d 1.000000
 illum 1
 map_Kd Mat\\Wood_Parquet_Interior\\Wood_Parquet_Interior_AlbedoTransparency.png
 
+newmtl picture4
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Mat\\Frame\\Picture8.png
+
+newmtl picture8
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Mat\\Frame\\Picture10.png
+
+newmtl picture9
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Mat\\Frame\\Picture12.png
+
 newmtl pillow
 Ns 0.000000
 Ka 1.000000 1.000000 1.000000
@@ -183,5 +599,4 @@ Ke 0.0 0.0 0.0
 Ni 1.450000
 d 1.000000
 illum 2
-map_Bump -bm 0.040017 Mat\\Flottebo\\Pillows\\Flottebo_Pillows_Normal.png
 map_Kd Mat\\Flottebo\\Pillows\\Flottebo_Pillows_AlbedoTransparency.png
