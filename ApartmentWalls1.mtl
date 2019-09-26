@@ -1,5 +1,5 @@
 # Blender MTL File: 'apart_v2.blend'
-# Material Count: 61
+# Material Count: 58
 
 newmtl 01_-_Default.009
 Ns 18.000005
@@ -11,17 +11,6 @@ Ni 1.450000
 d 1.000000
 illum 1
 map_Kd Mat\\Livslang\\Livslang_AlbedoTransparency.png
-
-newmtl 01_-_Default.012
-Ns 18.000005
-Ka 1.000000 1.000000 1.000000
-Kd 0.588235 0.588235 0.588235
-Ks 0.000000 0.000000 0.000000
-Ke 0.0 0.0 0.0
-Ni 1.450000
-d 1.000000
-illum 1
-map_Kd Mat\\Frame\\Pictures2_Frame_AO.png
 
 newmtl 01_-_Default.015
 Ns 18.000005
@@ -103,24 +92,13 @@ Ni 1.450000
 d 1.000000
 illum 2
 
-newmtl Chair_Structure
-Ns 18.000005
-Ka 1.000000 1.000000 1.000000
-Kd 0.588235 0.588235 0.588235
-Ks 0.000000 0.000000 0.000000
-Ke 0.0 0.0 0.0
-Ni 1.450000
-d 1.000000
-illum 1
-map_Kd Mat\\Chair\\Plastic_Chair_Legs_AlbedoTransparency.png
-
 newmtl Couch
-Ns 8.351571
+Ns 506.250000
 Ka 1.000000 1.000000 1.000000
-Kd 0.035218 0.035218 0.035218
-Ks 0.802752 0.802752 0.802752
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
 Ke 0.0 0.0 0.0
-Ni 1.450000
+Ni 1.000000
 d 1.000000
 illum 2
 
@@ -233,17 +211,6 @@ Ke 0.0 0.0 0.0
 Ni 1.450000
 d 1.000000
 illum 2
-
-newmtl Floor
-Ns 225.000000
-Ka 1.000000 1.000000 1.000000
-Kd 0.800000 0.800000 0.800000
-Ks 0.500000 0.500000 0.500000
-Ke 0.0 0.0 0.0
-Ni 1.450000
-d 1.000000
-illum 2
-map_Kd Текстуры\\Дерево\\1\\L0223-01766-3D Texture.jpg
 
 newmtl Floor3
 Ns 85.011773
@@ -406,7 +373,7 @@ illum 2
 newmtl Pillow
 Ns 0.000000
 Ka 1.000000 1.000000 1.000000
-Kd 0.296138 0.318547 0.412543
+Kd 0.370021 0.372567 0.412685
 Ks 0.940367 0.940367 0.940367
 Ke 0.0 0.0 0.0
 Ni 1.450000
