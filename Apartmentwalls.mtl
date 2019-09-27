@@ -120,7 +120,7 @@ Ke 0.0 0.0 0.0
 Ni 1.450000
 d 1.000000
 illum 2
-map_Kd Material\\Cover4.jpg
+map_Kd Material\\Cov.jpg
 
 newmtl Cover.001
 Ns 4.261008
@@ -131,12 +131,12 @@ Ke 0.0 0.0 0.0
 Ni 1.450000
 d 1.000000
 illum 2
-map_Kd Material\\Cover3.jpg
+map_Kd Material\\Cov2.jpg
 
 newmtl CurtainNEW
 Ns 20.623259
 Ka 1.000000 1.000000 1.000000
-Kd 0.232758 0.257442 0.326371
+Kd 0.303198 0.292037 0.283122
 Ks 0.270642 0.270642 0.270642
 Ke 0.0 0.0 0.0
 Ni 1.450000
