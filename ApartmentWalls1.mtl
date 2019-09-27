@@ -518,7 +518,7 @@ Ke 0.0 0.0 0.0
 Ni 1.450000
 d 1.000000
 illum 2
-map_Kd D:\\git\\Home_v3\\Home_v3\\wood3.jpg
+map_Kd Material\\wood3.jpg
 
 newmtl pic
 Ns 225.000000
