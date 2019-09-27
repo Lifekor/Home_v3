@@ -30,6 +30,7 @@ Ke 0.0 0.0 0.0
 Ni 1.450000
 d 1.000000
 illum 2
+map_Kd Material\\Bed.jpg
 
 newmtl Bed_2
 Ns 0.000000
@@ -40,6 +41,7 @@ Ke 0.0 0.0 0.0
 Ni 1.450000
 d 1.000000
 illum 2
+map_Kd Material\\Bed.jpg
 
 newmtl Bed_3
 Ns 0.000000
@@ -60,6 +62,7 @@ Ke 0.0 0.0 0.0
 Ni 1.450000
 d 1.000000
 illum 2
+map_Kd Material\\asd asd as.JPG
 
 newmtl Candle
 Ns 225.000000
@@ -90,6 +93,7 @@ Ke 0.0 0.0 0.0
 Ni 1.450000
 d 1.000000
 illum 2
+map_Kd Material\\Sofa.jpg
 
 newmtl Couch_stand
 Ns 662.235914
@@ -100,6 +104,7 @@ Ke 0.0 0.0 0.0
 Ni 1.450000
 d 1.000000
 illum 3
+map_Kd Material\\Sofa.jpg
 
 newmtl Couch_wood
 Ns 8.351571
@@ -110,6 +115,7 @@ Ke 0.0 0.0 0.0
 Ni 1.450000
 d 1.000000
 illum 2
+map_Kd Material\\Sofa.jpg
 
 newmtl CurtainNEW
 Ns 6.836542
@@ -351,6 +357,18 @@ Ke 0.0 0.0 0.0
 Ni 1.450000
 d 1.000000
 illum 2
+map_Kd Material\\PillowsBed.jpg
+
+newmtl Pillow3
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Material\\Pillows2.jpg
 
 newmtl Pillow_3
 Ns 15.926697
@@ -371,6 +389,7 @@ Ke 0.0 0.0 0.0
 Ni 1.450000
 d 1.000000
 illum 2
+map_Kd Material\\PillowsBed.jpg
 
 newmtl Shelf
 Ns 95.465444
@@ -471,7 +490,7 @@ Ke 0.0 0.0 0.0
 Ni 1.450000
 d 1.000000
 illum 2
-map_Kd Material\\Wood4.JPG
+map_Kd Material\\Wood4_2.jpg
 
 newmtl candle_3
 Ns 18.000005
@@ -513,16 +532,6 @@ Ni 1.450000
 d 1.000000
 illum 2
 map_Kd Material\\wood3.jpg
-
-newmtl pic
-Ns 225.000000
-Ka 1.000000 1.000000 1.000000
-Kd 0.005999 0.157431 0.001892
-Ks 0.500000 0.500000 0.500000
-Ke 0.0 0.0 0.0
-Ni 1.450000
-d 1.000000
-illum 2
 
 newmtl wooood
 Ns 6.836542
