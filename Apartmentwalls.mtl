@@ -1,5 +1,5 @@
 # Blender MTL File: 'apart_v2.blend'
-# Material Count: 54
+# Material Count: 53
 
 newmtl 01_-_Default.015
 Ns 18.000005
@@ -121,17 +121,6 @@ Ni 1.450000
 d 1.000000
 illum 2
 map_Kd Material\\Cov.jpg
-
-newmtl Cover.001
-Ns 178.185782
-Ka 1.000000 1.000000 1.000000
-Kd 0.007499 0.018500 0.019382
-Ks 0.500000 0.500000 0.500000
-Ke 0.0 0.0 0.0
-Ni 1.450000
-d 1.000000
-illum 2
-map_Kd Material\\Cov2.jpg
 
 newmtl CurtainNEW
 Ns 20.623259
